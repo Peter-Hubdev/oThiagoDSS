@@ -89,5 +89,5 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 ### Let's Connect
 
 <p align="left">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/othiagoo/" target="_blank" rel="noopener" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:thiagoantos@gmail.com" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
