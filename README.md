@@ -69,7 +69,7 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 ---
 
 ### GitHub Stats
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oThiagoDSS&layout=compact&langs_count=8&theme=dark&card_width=1000)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oThiagoDSS&layout=compact&langs_count=8&theme=dark&card_width=900)
 
 ---
 
